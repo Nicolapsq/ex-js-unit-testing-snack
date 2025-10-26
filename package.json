@@ -1,0 +1,15 @@
+{
+  "name": "ex-js-unit-testing-snack",
+  "version": "1.0.0",
+  "description": "Esercitazione sul flusso TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "Nicola Pasqua",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
